@@ -1,1 +1,1 @@
-<h1> This is my firstg repositary  </h1>
+<h1> This is my first repositary  </h1>
